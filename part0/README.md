@@ -22,7 +22,15 @@ origin  git@github.com:UdoTaisei/web100knock.git (push)
 
 ## 04
 ### ファイルの変更
-GitHubで編集
+GitHubで編集  
+
 ![](./q04.png)  
 -------
 ![](./q04_2.png)
+
+## 05
+![](./q05.png)
+
+## 06
+### ブランチ
+![](./q06.png)
