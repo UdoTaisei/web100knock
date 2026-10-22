@@ -1,0 +1,10 @@
+# 依存パッケージ
+node_modules/
+
+# 環境変数・秘密情報
+.env
+
+# OSが自動生成するファイル
+.DS_Store
+desktop.ini
+Thumbs.db
